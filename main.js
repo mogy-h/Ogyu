@@ -12,10 +12,5 @@ var app = new Vue({
       this.isActive = !this.isActive
       this.notActive = !this.notActive
     },
-      // change2: function(){
-      //   this.isNerf = !this.isNerf
-      //   this.isActive = !this.isActive
-      //   this.isHidden = !this.isHidden
-      // },
-    },
-  })
+  },
+})
